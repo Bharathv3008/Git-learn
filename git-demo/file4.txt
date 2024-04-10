@@ -5,4 +5,4 @@ hey hi...
 
 
 
-git demo class
+git demo class, wanna explore more on DevOps!
