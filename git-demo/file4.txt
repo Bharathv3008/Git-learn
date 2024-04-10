@@ -1,8 +1,0 @@
-hello
-hi
-hey
-hey hi...
-
-
-
-git demo class, wanna explore more on DevOps!
